@@ -23,9 +23,13 @@ To use this project, follow these steps:
 - Automatic prediction of color channels using a deep neural network
 - Integration of the Lab color space for accurate colorization
 
+## How to Download models
+- `colorization_deploy_v2.prototxt` can be found on my repository.
+- `colorization_release_v2.caffemodel` you can download the model file from [Google Drive Link](https://drive.google.com/file/d/14YmdCfcMOgfJEBNJEl6Xj1SB-RccgJBO/view?usp=sharing).
+
 ## Prerequisites
 Ensure that the following dependencies are installed:
-- Python 3.x
+- Python 3.10 and ^
 - Jupyter Notebook (for running the provided notebook)
 - OpenCV
 - NumPy
