@@ -44,15 +44,6 @@ Ensure that the following dependencies are installed:
 - Matplotlib (Data Visualization Library)
 - Tkinter (Python GUI toolkit)
 
-## How to Run
-To run this project, follow these steps:
-1. Install the prerequisites mentioned above.
-2. Clone the repository or download the necessary files.
-3. Open the `imageColorization.ipynb` Jupyter Notebook in your preferred environment and execute the code cells. Alternatively, run the `imageColorizationGUI.py` script for an interactive GUI experience.
-4. Provide the path to the black and white image when prompted.
-5. The project will generate a colorized version of the image and display it.
-6. Follow the on-screen instructions in the GUI (if using) to upload and colorize images.
-
 ## Screenshot
 
 ![sdfg](https://github.com/viv3k19/imageColorization-using-Python-OpenCV/assets/82309435/79659bb5-0249-4da0-99ab-4cec08d7c284)
